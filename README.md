@@ -12,10 +12,9 @@ Me muevo entre los sistemas y el desarrollo. Tengo experiencia previa en prácti
 - **Sistemas:** Linux, Windows, redes
 
 ## Aprendiendo ahora
-- Git y GitHub
 - Java avanzado y acceso a datos
 - SQL avanzado
-- Fundamentos de seguridad web y de AWS
+- Fundamentos de seguridad web
 
 ## Proyectos
 Estoy preparando mis primeros repositorios. Los iré publicando aquí.
